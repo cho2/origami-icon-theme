@@ -6,13 +6,7 @@ You only need to draw icons for Origami and then convert colors for eOrigami, Or
 
 ## Basic concepts
 
-Origami is an SVG-based icon theme for Linux, drawing inspiration from Material Design and flat design.
-
-All elements are clear, distinct and have outlines. Another main feature that distinguishes our theme is its use of warm color tones.
-
-Origami use layering style - moving from dark (down) to light (up) tone on layers.
-
-Objects have light stroke (#fff 20% or 10% for dark icons) and shadow (always #000 20%), see templates for more info.
+![Guidelines to drawing icons](guidelines.png)
 
 Mainly single size for all icons (without shadow):
 
@@ -114,8 +108,6 @@ Open directory `work` in a file manager and open a terminal in the directory. Yo
 
 - #### Make symlinks to an existing icon
 
-    It is a real example of the issue [#354](https://github.com/LelCP/origami-icon-theme/issues/354)
-
     Make sure those icons exist:
 
     ```sh
@@ -129,7 +121,7 @@ Open directory `work` in a file manager and open a terminal in the directory. Yo
     # ./Origami/64x64/apps/ardour.svg
     ```
 
-    Great, it's true, now you have the filename of the icon, it's `ardour.svg`, and the symlink name from the issue [#354](https://github.com/LelCP/origami-icon-theme/issues/354), it's `ardour5`. Create symlinks with the command:
+    Great, it's true, now you have the filename of the icon, it's `ardour.svg`, and the symlink name, it's `ardour5`. Create symlinks with the command:
 
     ```sh
     # Usage: ./new-symlink.sh context <icon filename> <symlink name>...
@@ -151,7 +143,7 @@ Open directory `work` in a file manager and open a terminal in the directory. Yo
 4. Save the file with the same filename.
 5. Repeat it for other sizes.
 
-### 3. Origami Dark, Origami Light and eOrigami
+### 3. Origami Dark
 
 1. Run script `tools/work/convert.sh`. It copies needed icons from `work/Origami` to `work/Origami-Dark`, `work/Origami-Light` and `work/eOrigami` and changes their color schemes.
 
