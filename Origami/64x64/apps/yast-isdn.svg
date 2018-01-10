@@ -1,1 +1,11 @@
-yast-modem.svg
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="4" y="33" width="56" height="28" rx="4.2" ry="4.2" style="opacity:.2"/>
+ <rect transform="rotate(90)" x="4" y="-18" width="34" height="6" ry="3" style="fill:#8e8e8e"/>
+ <rect x="4" y="32" width="56" height="28" rx="4.2" ry="4.2" style="fill:#4f4f4f"/>
+ <circle cx="48" cy="47" r="6" style="opacity:.2"/>
+ <circle cx="48" cy="46" r="6" style="fill:#c0f957"/>
+ <circle cx="32" cy="47" r="6" style="opacity:.2"/>
+ <circle cx="32" cy="46" r="6" style="fill:#91af5b"/>
+ <path d="m15 4c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3s3 1.338 3 3v-1c0-1.662-1.338-3-3-3z" style="fill:#ffffff;opacity:.1"/>
+ <path d="m8.1992188 32c-2.3267999 0-4.1992188 1.872419-4.1992188 4.199219v1c0-2.3268 1.8724189-4.199219 4.1992188-4.199219h47.601562c2.3268 0 4.199219 1.872419 4.199219 4.199219v-1c0-2.3268-1.872419-4.199219-4.199219-4.199219h-47.601562z" style="fill:#ffffff;opacity:.1"/>
+</svg>

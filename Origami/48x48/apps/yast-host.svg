@@ -1,1 +1,13 @@
-yast-tv.svg
+<svg width="48" height="48" version="1.1" viewBox="0 0 48.000001 48.000001" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-42" y="-36" width="32" height="24" rx="2" ry="2" style="fill:#8e8e8e"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-38" y="-44" width="32" height="40" rx="2" ry="2" style="fill:#4f4f4f"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-35" y="-41" width="26" height="34" rx="0" ry="0" style="opacity:.4"/>
+ <path d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff" opacity=".2"/>
+ <path d="m12 40v1c0 1.108 0.892 2 2 2h20c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-20c-1.108 0-2-0.892-2-2z" opacity=".2"/>
+ <path d="m4 36v1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-36c-1.108 0-2-0.892-2-2z" opacity=".2"/>
+ <rect x="7" y="35" width="34" height="1" style="fill:#ffffff;opacity:.1"/>
+ <circle cx="36" cy="37" r="11" style="opacity:.2"/>
+ <circle cx="36" cy="36" r="11" style="fill:#009587"/>
+ <path d="m35.999999 28.928569c-1.5191 0-2.75 1.23145-2.75 2.75s1.2309 2.75 2.75 2.75 2.75-1.23145 2.75-2.75-1.2309-2.75-2.75-2.75z" style="fill:#ffffff"/>
+ <path d="m35.999999 36.392856c-5.49945 0.0033-5.5 3.481318-5.5 3.481318v1.414286s1.015378 2.175824 5.5 2.175824 5.5-2.175824 5.5-2.175824v-1.414286s0-3.483494-5.4989-3.481318z" style="fill:#ffffff"/>
+</svg>

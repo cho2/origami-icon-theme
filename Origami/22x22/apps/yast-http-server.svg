@@ -1,1 +1,48 @@
-pattern-network.svg
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-1,-1)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.5" y="-22" width="6" height="20" rx="1" ry="1" style="opacity:.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-21" y="-22" width="6" height="20" rx="1" ry="1" style="fill:#8e8e8e"/>
+  <path d="m8.5 16.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <path d="m6.5 16.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <path d="m4.5 16.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <path d="m10.5 16.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <circle cx="15" cy="17.5" r="1" style="opacity:.2"/>
+  <circle cx="17.5" cy="17.5" r="1" style="opacity:.2"/>
+  <circle cx="20" cy="17.5" r="1" style="opacity:.2"/>
+  <circle cx="15" cy="17" r="1" style="fill:#76ff03"/>
+  <circle cx="17.5" cy="17" r="1" style="fill:#ffff00"/>
+  <circle cx="20" cy="17" r="1" style="fill:#ffcd40"/>
+ </g>
+ <g transform="translate(-1,-1)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-15.5" y="-22" width="6" height="20" rx="1" ry="1" style="opacity:.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-15" y="-22" width="6" height="20" rx="1" ry="1" style="fill:#8e8e8e"/>
+  <path d="m8.5 10.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <path d="m6.5 10.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <path d="m4.5 10.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <path d="m10.5 10.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <circle cx="15" cy="11.5" r="1" style="opacity:.2"/>
+  <circle cx="17.5" cy="11.5" r="1" style="opacity:.2"/>
+  <circle cx="20" cy="11.5" r="1" style="opacity:.2"/>
+  <circle cx="15" cy="11" r="1" style="fill:#76ff03"/>
+  <circle cx="17.5" cy="11" r="1" style="fill:#ffff00"/>
+  <circle cx="20" cy="11" r="1" style="fill:#ffcd40"/>
+ </g>
+ <g transform="translate(-1,-1)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-9.5" y="-22" width="6" height="20" rx="1" ry="1" style="opacity:.2"/>
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-9" y="-22" width="6" height="20" rx="1" ry="1" style="fill:#8e8e8e"/>
+  <path d="m8.5 4.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <path d="m6.5 4.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <path d="m4.5 4.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <path d="m10.5 4.5-1 3" style="opacity:.5;stroke-linecap:round;stroke:#000000"/>
+  <circle cx="15" cy="5.5" r="1" style="opacity:.2"/>
+  <circle cx="17.5" cy="5.5" r="1" style="opacity:.2"/>
+  <circle cx="20" cy="5.5" r="1" style="opacity:.2"/>
+  <circle cx="15" cy="5" r="1" style="fill:#76ff03"/>
+  <circle cx="17.5" cy="5" r="1" style="fill:#ffff00"/>
+  <circle cx="20" cy="5" r="1" style="fill:#ffcd40"/>
+  <path d="m3 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" style="fill:#ffffff;opacity:.2"/>
+ </g>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-22" y="-22" width="10" height="10" rx="5" ry="5" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-21" y="-22" width="10" height="10" rx="5" ry="5" style="fill:#02a8f3"/>
+ <path d="m17.067697 12.537007c-1.933 0-3.499999 1.567-3.499999 3.5s1.566999 3.5 3.499999 3.5c1.933001 0 3.500001-1.567 3.500001-3.5s-1.567-3.5-3.500001-3.5zm-0.327441 0.697949c0.03808-4e-3 0.08599 0.0023 0.124413 0 0.0046 0.01821-0.02698 0.08356-0.07041 0.178418-0.276575 0.6042-0.292914 1.311635-0.03623 1.689843 0.04645 0.06857 0.08887 0.133707 0.08887 0.142188 0 0.0085-0.05 0.01778-0.10664 0.01778-0.132966 1e-6 -0.259024-0.08079-0.516114-0.284375-0.114209-0.09044-0.262399-0.166237-0.319922-0.177735-0.09033-0.01805-0.1142-0.01023-0.231055 0.106642-0.108722 0.108703-0.142187 0.167768-0.142187 0.267284 0 0.377378 0.448289 0.676602 1.281054 0.853125 1.130929 0.239694 1.409137 0.454634 1.440333 1.049317 0.03917 0.745716-0.357466 1.307859-1.227052 1.743164-0.103791 0.05198-0.169734 0.07276-0.213281 0.08955-0.0193-0.0017-0.03477 0.0017-0.05401 0-0.0074-0.02305-0.01778-0.07639-0.01778-0.177733 0-0.396073-0.155774-0.804244-0.391015-1.032227-0.06315-0.06121-0.239607-0.190648-0.391016-0.284375-0.151403-0.09372-0.304338-0.202378-0.338379-0.248828-0.0564-0.07708-0.06043-0.124204-0.01709-0.266601 0.07899-0.260073 0.172695-0.405792 0.355469-0.570118 0.09582-0.08615 0.192054-0.157562 0.213281-0.159277 0.02124-0.0017-0.122178-0.04546-0.337695-0.08955-0.215507-0.04417-0.531539-0.136516-0.694531-0.195508-0.298048-0.107844-0.700396-0.334487-0.853809-0.49834-0.0065-0.0069-0.01214-0.01163-0.01777-0.01778 0.219805-0.875562 0.836571-1.592853 1.654297-1.938672 0.171099-0.07237 0.347697-0.121878 0.533887-0.159961 0.09274-0.01896 0.188615-0.0265 0.284375-0.03623zm2.66875 1.334375c0.06686 0.04133 0.319637 0.588083 0.3917 0.854492 0.09304 0.343935 0.0863 0.938708 0 1.280371-0.03285 0.130039-0.07555 0.251461-0.08955 0.266602-0.014 0.01515-0.06536-0.07119-0.125098-0.177051-0.05974-0.105847-0.249518-0.331009-0.408105-0.49834-0.457756-0.483025-0.530125-0.734914-0.338379-1.12041 0.0967-0.194393 0.517689-0.637598 0.569433-0.605664z" style="fill:#ffffff"/>
+</svg>

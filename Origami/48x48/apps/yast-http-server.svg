@@ -1,1 +1,42 @@
-pattern-network.svg
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-45" y="-44" width="13" height="40" rx="2" ry="2" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="13" height="40" rx="2" ry="2" style="fill:#8e8e8e"/>
+ <path d="m19 35-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <path d="m15 35-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <path d="m11 35-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <path d="m23 35-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <circle cx="30" cy="36" r="2" style="opacity:.2"/>
+ <circle cx="35" cy="36" r="2" style="opacity:.2"/>
+ <circle cx="40" cy="36" r="2" style="opacity:.2"/>
+ <circle cx="30" cy="35" r="2" style="fill:#76ff03"/>
+ <circle cx="35" cy="35" r="2" style="fill:#ffff00"/>
+ <circle cx="40" cy="35" r="2" style="fill:#ffcd40"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-32" y="-44" width="13" height="40" rx="2" ry="2" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-31" y="-44" width="13" height="40" rx="2" ry="2" style="fill:#8e8e8e"/>
+ <path d="m19 22-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <path d="m15 22-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <path d="m11 22-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <path d="m23 22-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <circle cx="30" cy="23" r="2" style="opacity:.2"/>
+ <circle cx="35" cy="23" r="2" style="opacity:.2"/>
+ <circle cx="40" cy="23" r="2" style="opacity:.2"/>
+ <circle cx="30" cy="22" r="2" style="fill:#76ff03"/>
+ <circle cx="35" cy="22" r="2" style="fill:#ffff00"/>
+ <circle cx="40" cy="22" r="2" style="fill:#ffcd40"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-19" y="-44" width="13" height="40" rx="2" ry="2" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-18" y="-44" width="13" height="40" rx="2" ry="2" style="fill:#8e8e8e"/>
+ <path d="m19 9-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <path d="m15 9-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <path d="m11 9-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <path d="m23 9-3 5" style="opacity:.5;stroke-linecap:round;stroke-width:2;stroke:#000000"/>
+ <circle cx="30" cy="10" r="2" style="opacity:.2"/>
+ <circle cx="35" cy="10" r="2" style="opacity:.2"/>
+ <circle cx="40" cy="10" r="2" style="opacity:.2"/>
+ <circle cx="30" cy="9" r="2" style="fill:#76ff03"/>
+ <circle cx="35" cy="9" r="2" style="fill:#ffff00"/>
+ <circle cx="40" cy="9" r="2" style="fill:#ffcd40"/>
+ <path d="m6 5c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z" style="fill:#ffffff;opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-48" y="-47" width="22" height="22" rx="11" ry="11" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-47" y="-47" width="22" height="22" rx="11" ry="11" style="fill:#02a8f3"/>
+ <path d="m36.020855 28.300081c-4.2526 0-7.699999 3.4474-7.699999 7.7s3.447399 7.7 7.699999 7.7c4.252601 0 7.700001-3.4474 7.700001-7.7s-3.4474-7.7-7.700001-7.7zm-0.72037 1.535488c0.08378-0.0088 0.189178 5e-3 0.273709 0 0.01001 0.04007-0.05935 0.183841-0.154902 0.392518-0.608466 1.329242-0.644413 2.885598-0.07971 3.717657 0.10219 0.150858 0.195509 0.294155 0.195509 0.312813 0 0.01866-0.11 0.0391-0.234609 0.0391-0.292525 2e-6 -0.569853-0.177748-1.135451-0.625625-0.251261-0.19896-0.577279-0.365722-0.703828-0.391016-0.198724-0.0397-0.25124-0.02249-0.508321 0.234611-0.23919 0.239148-0.312813 0.369091-0.312813 0.588026 0 0.830232 0.986237 1.488523 2.81832 1.876875 2.488044 0.527327 3.100101 1.000194 3.168731 2.308496 0.08617 1.640575-0.786424 2.877291-2.699513 3.834961-0.228339 0.114345-0.373414 0.160068-0.469218 0.197011-0.04246-0.0037-0.07648 0.0037-0.118814 0-0.01628-0.05072-0.0391-0.168047-0.0391-0.391014 0-0.871359-0.342702-1.769335-0.860233-2.270899-0.138921-0.134654-0.527137-0.419426-0.860235-0.625625-0.333088-0.206187-0.669543-0.44523-0.744434-0.547422-0.12408-0.16958-0.132949-0.273248-0.03761-0.586522 0.173773-0.57216 0.379928-0.892742 0.782031-1.254258 0.210808-0.189529 0.422518-0.346638 0.469219-0.350411 0.04673-0.0037-0.268792-0.100012-0.742929-0.197012-0.474116-0.09718-1.169385-0.300335-1.527969-0.430118-0.655704-0.237255-1.540871-0.735871-1.878378-1.096347-0.01428-0.01529-0.02671-0.02557-0.0391-0.0391 0.483569-1.926237 1.840454-3.504276 3.639452-4.265078 0.376419-0.159213 0.764934-0.268132 1.174551-0.351915 0.204032-0.0417 0.414955-0.05829 0.625626-0.07971zm5.87125 2.935625c0.147089 0.09092 0.703201 1.293783 0.861739 1.879883 0.204679 0.756657 0.189865 2.065158 0 2.816816-0.07227 0.286086-0.166205 0.553215-0.197014 0.586525-0.03081 0.03332-0.14379-0.156614-0.275214-0.389512-0.131436-0.232864-0.54894-0.728221-0.897832-1.096348-1.007064-1.062655-1.166274-1.616812-0.744433-2.464903 0.212737-0.427665 1.138915-1.402716 1.252754-1.332461z" style="fill:#ffffff"/>
+</svg>
