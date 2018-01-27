@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#c2352a" width="3" height="12" x="13" y="2" rx=".5" ry=".429"/>
- <rect style="fill:#c2352a" width="3" height="12" x="7" y="2" rx=".5" ry=".429"/>
- <rect style="fill:#c2352a" width="3" height="12" x="0" y="2" rx=".5" ry=".429"/>
- <rect style="fill:#d8564d" width="3" height="6" x="2" y="-6" rx=".5" ry=".429" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#d8564d" width="3" height="6" x="11" y="-6" rx=".5" ry=".429" transform="matrix(0,1,-1,0,0,0)"/>
- <path style="fill:#d8564d" d="M 7.5858032,2 A 0.58598657,0.51584312 0 0 0 7.0784568,2.7736876 l 1.9576707,2.9839347 1.9569065,2.9839346 a 0.58598657,0.51584312 0 0 0 0.479882,0.2578956 0.58598657,0.51584312 0 0 0 0.534812,-0.2578956 L 13.964636,5.7576223 15.921543,2.7736876 A 0.58598657,0.51584312 0 0 0 15.414198,2 L 11.500382,2 7.5858032,2 Z"/>
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="13" y="2" width="3" height="12" rx=".5" ry=".429" style="fill:#c2352a"/>
+ <rect x="7" y="2" width="3" height="12" rx=".5" ry=".429" style="fill:#c2352a"/>
+ <rect y="2" width="3" height="12" rx=".5" ry=".429" style="fill:#c2352a"/>
+ <rect transform="rotate(90)" x="2" y="-6" width="3" height="6" rx=".5" ry=".429" style="fill:#d8564d"/>
+ <rect transform="rotate(90)" x="11" y="-6" width="3" height="6" rx=".5" ry=".429" style="fill:#d8564d"/>
+ <path d="m7.5858032 2a0.58598657 0.51584312 0 0 0 -0.5073464 0.7736876l1.9576707 2.9839347 1.9569065 2.9839346a0.58598657 0.51584312 0 0 0 0.479882 0.2578956 0.58598657 0.51584312 0 0 0 0.534812 -0.2578956l1.956908-2.9839346 1.956907-2.9839347a0.58598657 0.51584312 0 0 0 -0.507345 -0.7736876h-3.913816-3.9145788z" style="fill:#d8564d"/>
 </svg>

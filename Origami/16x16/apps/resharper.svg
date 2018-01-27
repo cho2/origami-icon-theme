@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path style="fill:#c72566" d="M 8,0 H 0.8 C 0.3568,0 0,0.3568 0,0.8 V 8 h 8 z"/>
- <path style="fill:#ff8c2a" d="m 8,0 h 7.2 C 15.6432,0 16,0.3568 16,0.8 V 8 H 8 Z"/>
- <path style="fill:#cf4f8c" d="M 8,16 H 0.8 C 0.3568,16 0,15.6432 0,15.2 V 8 h 8 z"/>
- <path style="fill:#c72566" d="m 8,16 h 7.2 C 15.6432,16 16,15.6432 16,15.2 V 8 H 8 Z"/>
- <rect style="fill:#3f3f3f" width="12" height="12" x="2" y="2"/>
- <path style="fill:none;stroke:#ffffff;stroke-linecap:round" d="M 3.5071212,11.5 H 7.507121"/>
- <path style="fill:none;stroke:#ffffff;stroke-width:0.99999994;stroke-linecap:round" d="m 5.5071232,7.500001 -1.0000015,-1.5 M 3.5071212,5.499999 c 0,0 2.000002,0.232251 2.000002,-0.9999985 C 5.5071232,3.26775 3.5071212,3.5 3.5071212,3.5 m 4.9e-5,4.000049 v -4"/>
- <path style="fill:none;stroke:#ffffff;stroke-linecap:round" d="m 7.507121,6.500025 h 4 v 0 0 m -4,-2.00005 h 4 v 0 0 M 10.507146,7.5 v -4 0 0 m -2.00005,4 v -4 0 0"/>
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 0h-7.2c-0.4432 0-0.8 0.3568-0.8 0.8v7.2h8z" style="fill:#c72566"/>
+ <path d="m8 0h7.2c0.4432 0 0.8 0.3568 0.8 0.8v7.2h-8z" style="fill:#ff8c2a"/>
+ <path d="m8 16h-7.2c-0.4432 0-0.8-0.3568-0.8-0.8v-7.2h8z" style="fill:#cf4f8c"/>
+ <path d="m8 16h7.2c0.4432 0 0.8-0.3568 0.8-0.8v-7.2h-8z" style="fill:#c72566"/>
+ <rect x="2" y="2" width="12" height="12" style="fill:#3f3f3f"/>
+ <path d="m3.5071212 11.5h3.9999998" style="fill:none;stroke-linecap:round;stroke:#ffffff"/>
+ <path d="m5.5071232 7.500001-1.0000015-1.5m-1.0000005-0.500002s2.000002 0.232251 2.000002-0.9999985c0-1.2322505-2.000002-1.0000005-2.000002-1.0000005m4.9e-5 4.000049v-4" style="fill:none;stroke-linecap:round;stroke-width:.99999994;stroke:#ffffff"/>
+ <path d="m7.507121 6.500025h4m-4-2.00005h4m-0.999975 3.000025v-4m-2.00005 4v-4" style="fill:none;stroke-linecap:round;stroke:#ffffff"/>
 </svg>

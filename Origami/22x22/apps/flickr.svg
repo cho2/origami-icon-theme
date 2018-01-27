@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect style="opacity:0.2" width="20" height="20" x="-21.5" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#d2d2d2" width="20" height="20" x="-21" y="-21" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 2,1 C 1.446,1 1,1.446 1,2 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 21,2 C 21,1.446 20.554,1 20,1 L 2,1 Z"/>
- <circle style="opacity:0.1" cx="15.5" cy="12" r="3.5"/>
- <circle style="fill:#e03c90" cx="15.5" cy="11.5" r="3.5"/>
- <circle style="opacity:0.1" cx="6.5" cy="12" r="3.5"/>
- <circle style="fill:#296ec6" cx="6.5" cy="11.5" r="3.5"/>
+<svg width="22" height="22" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-21.5" y="-21" width="20" height="20" rx="1" ry="1" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-21" y="-21" width="20" height="20" rx="1" ry="1" style="fill:#d2d2d2"/>
+ <path d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z" style="fill:#ffffff;opacity:.2"/>
+ <circle cx="15.5" cy="12" r="3.5" style="opacity:.1"/>
+ <circle cx="15.5" cy="11.5" r="3.5" style="fill:#e03c90"/>
+ <circle cx="6.5" cy="12" r="3.5" style="opacity:.1"/>
+ <circle cx="6.5" cy="11.5" r="3.5" style="fill:#296ec6"/>
 </svg>

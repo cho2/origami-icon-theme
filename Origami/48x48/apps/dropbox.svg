@@ -1,29 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg id="svg2817" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata57">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs2819">
-  <linearGradient id="linearGradient4365" x1="24" gradientUnits="userSpaceOnUse" x2="28.615" gradientTransform="matrix(-1,0,0,1,48,0)" y1="21" y2="25.313">
-   <stop id="stop4361" offset="0"/>
-   <stop id="stop4363" stop-opacity="0" offset="1"/>
-  </linearGradient>
-  <linearGradient id="linearGradient4373" y2="36.388" gradientUnits="userSpaceOnUse" x2="12.189" y1="34.828" x1="31.427">
-   <stop id="stop4369" offset="0"/>
-   <stop id="stop4371" stop-opacity="0" offset="1"/>
-  </linearGradient>
- </defs>
- <path id="polygon3877" fill="#37a0f2" d="m24 28-8.5 4.3-3.5-1.2v5.4l12 7.5 12-7.5v-4.8l-3.5 2.2z"/>
- <path id="path4357" opacity=".05" fill="url(#linearGradient4373)" d="m24 28v16l12-7.5v-4.8l-3.5 2.2z"/>
- <path id="path4155" opacity=".2" d="m16 8-12 7.5 8 6.5 12-7-8-7zm8 7 12 7 8-6.5l-12-7.5-8 7zm12 7-12 7 8 7l12-7.5-8-6.5zm-12 7-12-7-8 6.5 12 7.5 8-7z"/>
- <path id="path4339" fill="#99cff8" d="m16 7-12 7.5 8 6.5 12-7-8-7zm8 7 12 7 8-6.5l-12-7.5-8 7zm12 7-12 7 8 7l12-7.5-8-6.5zm-12 7-12-7-8 6.5 12 7.5 8-7z"/>
- <path id="rect4352" fill="#88c0ec" d="m36 21-12 7-12-7 12-7z"/>
- <path id="path4355" opacity=".05" fill="url(#linearGradient4365)" d="m12 21 12 7 0.000001-14z"/>
- <path id="path4267" opacity=".2" d="m12 36.5v1l12 7.5 12-7.5v-1l-12 7.5-12-7.5z"/>
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m24.011719 29.000039a1.7144571 1.600235 0 0 0 -0.785157 0.171883l-6.639509 3.136084-2.316964-0.742221a1.7144571 1.600235 0 0 0 -2.270089 1.514132v4.320516a1.7144571 1.600235 0 0 0 0.806919 1.356313l10.285715 6.000282a1.7144571 1.600235 0 0 0 1.816406 0l10.285715-6.000282a1.7144571 1.600235 0 0 0 0.805245 -1.356313v-3.840805a1.7144571 1.600235 0 0 0 -2.626674 -1.354752l-2.040737 1.198495-6.35491-4.117381a1.7144571 1.600235 0 0 0 -0.96596 -0.285951z" style="opacity:.2"/>
+ <path d="m24.011719 28.000039a1.7144571 1.600235 0 0 0 -0.785157 0.171883l-6.639509 3.136084-2.316964-0.742221a1.7144571 1.600235 0 0 0 -2.270089 1.514132v4.320516a1.7144571 1.600235 0 0 0 0.806919 1.356313l10.285715 6.000282a1.7144571 1.600235 0 0 0 1.816406 0l10.285715-6.000282a1.7144571 1.600235 0 0 0 0.805245 -1.356313v-3.840805a1.7144571 1.600235 0 0 0 -2.626674 -1.354752l-2.040737 1.198495-6.35491-4.117381a1.7144571 1.600235 0 0 0 -0.96596 -0.285951z" style="fill:#1383d9"/>
+ <path d="M 16,8.0000003 4,15.5 12,22 4,28.5 16,36 24,29 32,36 44,28.5 36,22 44,15.5 32,8.0000003 24,15 16,8.0000003 Z" style="opacity:.2"/>
+ <path d="m16 7l-12 7.5 8 6.5-8 6.5 12 7.5 8-7 8 7 12-7.5-8-6.5 8-6.5-12-7.5-8 7-8-7z" style="fill:#5aacff"/>
+ <path d="m36 22-12 7-12-7 12-7z" style="opacity:.2"/>
+ <path d="m36 21-12 7-12-7 12-7z" style="fill:#ffffff"/>
+ <path d="m16 7l-12 7.5 0.6953125 0.564453 11.304688-7.064453 8 7 8-7 11.304688 7.064453 0.695312-0.564453-12-7.5-8 7-8-7zm-4.615234 14.5l-7.384766 6 0.6953125 0.435547 7.3046875-5.935547-0.615234-0.5zm25.230468 0l-0.615234 0.5 7.304688 5.935547 0.695312-0.435547-7.384766-6z" style="fill:#ffffff;opacity:.2"/>
 </svg>

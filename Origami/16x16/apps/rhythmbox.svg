@@ -1,1 +1,8 @@
-yast-sound.svg
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="scale(-1,1)" x="-14" width="12" height="16" rx=".75" ry=".8" style="fill:#e4e4e4"/>
+ <circle transform="rotate(-90)" cx="-10" cy="8" r="5" style="fill:#3f3f3f"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-10" cy="-8" r="4" style="fill:#fec006"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-10" cy="-8" r="2" style="fill:#3f3f3f"/>
+ <circle transform="rotate(90)" cx="3" cy="-5" r="1" style="fill:#3f3f3f"/>
+ <circle transform="rotate(90)" cx="3" cy="-11" r="1" style="fill:#3f3f3f"/>
+</svg>

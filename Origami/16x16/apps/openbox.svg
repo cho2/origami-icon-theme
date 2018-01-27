@@ -1,0 +1,6 @@
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-15" y="-16" width="14" height="16" rx=".8" ry=".8" style="fill:#5489cd"/>
+ <rect y="5" width="16" height="8" style="fill:#e4e4e4"/>
+ <rect x="3" y="13" width=".5" height="2" style="opacity:.2"/>
+ <rect x="12.5" y="13" width=".5" height="2" style="opacity:.2"/>
+</svg>

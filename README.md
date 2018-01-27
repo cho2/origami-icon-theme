@@ -7,6 +7,10 @@ Origami icon theme is available in two variants:
  - Origami (for Geeko / Geeko Darker)
  - Origami-dark (for Geeko Dark)
 
+## Installation on openSUSE
+
+`sudo zypper in origami-icon-theme`
+
 ## Installation
 
 `sudo make install` 

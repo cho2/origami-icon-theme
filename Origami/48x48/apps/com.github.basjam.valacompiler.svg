@@ -1,0 +1,13 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-44" y="-44" width="40" height="40" rx="2" ry="2" style="fill:#8e8e8e"/>
+ <path d="m10.0202 12.9998 7 7 7-7" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000000"/>
+ <path d="m6 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" fill="#fff" opacity=".2"/>
+ <path d="m6 45c-1.108 0-2-0.892-2-2v-1c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v1c0 1.108-0.892 2-2 2h-36z" opacity=".2"/>
+ <path d="m10.0202 12 7 7 7-7" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#3f3f3f"/>
+ <path d="m38.0202 19.9796-7-7-7 7" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000000"/>
+ <path d="m38.0202 18.9798-7-7-7 7" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#3f3f3f"/>
+ <path d="m38.0202 36.9796-7-7-7 7" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000000"/>
+ <path d="m38.0202 35.9798-7-7-7 7" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#3f3f3f"/>
+ <path d="m10 27.9998v9h9" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#000000"/>
+ <path d="m10 27v9h9" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:4;stroke:#3f3f3f"/>
+</svg>

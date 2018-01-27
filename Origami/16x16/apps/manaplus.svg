@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
- <path style="fill:#d66829" d="M 8,0 A 8,8 0 0 0 0,8 8,8 0 0 0 8,16 8,8 0 0 0 16,8 8,8 0 0 0 8,0 Z"/>
- <path style="fill:none;stroke:#f8bf94;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 6.00004,10.985758 V 6.9857575 C 6.00004,6.9857575 5.9,6 7.5,6 9.1,6 9,6.9857575 9,6.9857575 v 4.0000005 m -5.9999,0 V 6.9857575 C 3.0001,6.9857575 2.9,6 4.5,6 6.1,6 5.99996,6.9857575 5.99996,6.9857575 v 4.0000005"/>
- <rect style="fill:#ffffff" width="1" height="3" x="11" y="3" rx=".5" ry=".3"/>
- <rect style="fill:#ffffff" width="1" height="3" x="4" y="-13" rx=".5" ry=".3" transform="rotate(90)"/>
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m8 0a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8z" style="fill:#d66829"/>
+ <path d="m6.00004 10.985758v-4.0000005s-0.10004-0.9857575 1.49996-0.9857575 1.5 0.9857575 1.5 0.9857575v4.0000005m-5.9999 0v-4.0000005s-0.1001-0.9857575 1.4999-0.9857575 1.49996 0.9857575 1.49996 0.9857575v4.0000005" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#f8bf94"/>
+ <rect x="11" y="3" width="1" height="3" rx=".5" ry=".3" style="fill:#ffffff"/>
+ <rect transform="rotate(90)" x="4" y="-13" width="1" height="3" rx=".5" ry=".3" style="fill:#ffffff"/>
 </svg>

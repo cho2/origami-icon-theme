@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#cccccc" width="16" height="16" x="-16" y="-16" rx="8" ry="8" transform="matrix(0,-1,-1,0,0,0)"/>
- <circle style="fill:#3f3f3f" cx="8" cy="8" r="6"/>
- <path style="fill:#ffffff" d="M 6,4 6,7 6,9 6,12 8,12 8,9 9,9 9,7 8,7 8,6 10,6 10,4 8,4 6.8,4 Z"/>
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-16" y="-16" width="16" height="16" rx="8" ry="8" style="fill:#cccccc"/>
+ <circle cx="8" cy="8" r="6" style="fill:#3f3f3f"/>
+ <path d="m6 4v3 2 3h2v-3h1v-2h-1v-1h2v-2h-2-1.2z" style="fill:#ffffff"/>
 </svg>

@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <rect style="opacity:0.2" width="45" height="56" x="-55" y="-60" rx="2.813" ry="2.8" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#e2d144" width="45" height="56" x="-54" y="-60" rx="2.813" ry="2.8" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="opacity:0.5" width="3" height="22" x="12" y="9"/>
- <rect style="opacity:0.5" width="3" height="11" x="18" y="9"/>
- <rect style="opacity:0.5" width="3" height="17" x="42" y="9"/>
- <path style="opacity:0.5" d="M 8 34 L 8 51 L 19 51 L 19 34 L 8 34 z M 11 37 L 16 37 L 16 48 L 11 48 L 11 37 z"/>
- <rect style="opacity:0.5" width="3" height="11" x="24" y="9"/>
- <rect style="opacity:0.5" width="3" height="11" x="30" y="9"/>
- <rect style="opacity:0.5" width="3" height="11" x="36" y="9"/>
- <rect style="opacity:0.5" width="3" height="11" x="48" y="9"/>
- <rect style="opacity:0.5" width="3" height="11" x="54" y="9"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 6.8007812 9 C 5.2495813 9 4 10.254375 4 11.8125 L 4 12.8125 C 4 11.254375 5.2495813 10 6.8007812 10 L 57.199219 10 C 58.750419 10 60 11.254375 60 12.8125 L 60 11.8125 C 60 10.254375 58.750419 9 57.199219 9 L 6.8007812 9 z"/>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-55" y="-60" width="45" height="56" rx="2.813" ry="2.8" style="opacity:.2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-54" y="-60" width="45" height="56" rx="2.813" ry="2.8" style="fill:#e2d144"/>
+ <rect x="12" y="9" width="3" height="22" style="opacity:.5"/>
+ <rect x="18" y="9" width="3" height="11" style="opacity:.5"/>
+ <rect x="42" y="9" width="3" height="17" style="opacity:.5"/>
+ <path d="m8 34v17h11v-17h-11zm3 3h5v11h-5v-11z" style="opacity:.5"/>
+ <rect x="24" y="9" width="3" height="11" style="opacity:.5"/>
+ <rect x="30" y="9" width="3" height="11" style="opacity:.5"/>
+ <rect x="36" y="9" width="3" height="11" style="opacity:.5"/>
+ <rect x="48" y="9" width="3" height="11" style="opacity:.5"/>
+ <rect x="54" y="9" width="3" height="11" style="opacity:.5"/>
+ <path d="m6.8007812 9c-1.5511999 0-2.8007812 1.254375-2.8007812 2.8125v1c0-1.558125 1.2495813-2.8125 2.8007812-2.8125h50.398438c1.5512 0 2.800781 1.254375 2.800781 2.8125v-1c0-1.558125-1.249581-2.8125-2.800781-2.8125h-50.398438z" style="fill:#ffffff;opacity:.2"/>
 </svg>

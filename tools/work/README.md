@@ -35,7 +35,7 @@ For compabillity with mostly GTK Themes we use this palette:
 For devices used material colors:
 
 - steel `#afafb1`
-- aluminium `#8e8e8e`
+- aluminium `#e0e077`
 - plastic `#4f4f4f`
 
 Examples are available in the main icon theme folders. In the `work` directory, you'll only find templates and scripts.

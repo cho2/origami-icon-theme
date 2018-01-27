@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path style="fill:#cccccc" d="M 14,15.2 V 4 H 2 V 15.2 C 2,15.6432 2.3345,16 2.75,16 h 10.5 C 13.6655,16 14,15.6432 14,15.2 Z"/>
- <path style="fill:#b8b8b8" d="m 5,2 h 6 l 3,2 H 2 Z"/>
- <rect style="fill:#a3a3a3" width="6" height="2" x="5" y="0"/>
- <path style="fill:#a3a3a3" d="m 11,2 v 0 l 3,2 H 9 Z"/>
- <path style="fill:#b8b8b8" d="m 9,4 v 12 h 4.285714 C 13.681429,16 14,15.6432 14,15.2 V 4 Z"/>
- <path style="fill:none;stroke:#3a86c5;stroke-linecap:round;stroke-linejoin:round" d="M 6.5,12.492879 V 7.5 M 3.5041172,7.5 5,10.5 6.5,7.5 M 3.5041172,12.492879 V 7.5"/>
- <path style="fill:none;stroke:#3a86c5;stroke-linecap:round" d="m 10.5,7.5 h 2 m -1,5 v -5"/>
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+ <path d="m14 15.2v-11.2h-12v11.2c0 0.4432 0.3345 0.8 0.75 0.8h10.5c0.4155 0 0.75-0.3568 0.75-0.8z" style="fill:#cccccc"/>
+ <path d="m5 2h6l3 2h-12z" style="fill:#b8b8b8"/>
+ <rect x="5" width="6" height="2" style="fill:#a3a3a3"/>
+ <path d="m11 2l3 2h-5z" style="fill:#a3a3a3"/>
+ <path d="m 9,4 v 12 h 4.285714 C 13.681429,16 14,15.6432 14,15.2 V 4 Z" style="fill:#b8b8b8"/>
+ <path d="M 6.5,12.492879 V 7.5 M 3.5041172,7.5 5,10.5 6.5,7.5 M 3.5041172,12.492879 V 7.5" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#3a86c5"/>
+ <path d="m10.5 7.5h2m-1 5v-5" style="fill:none;stroke-linecap:round;stroke:#3a86c5"/>
 </svg>

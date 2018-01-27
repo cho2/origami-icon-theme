@@ -1,0 +1,13 @@
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-22" y="-22" width="20" height="20" rx="1" ry="1" style="fill:#8e8e8e"/>
+ <path d="m5.0101 6.499355 3.5 4 3.5-4" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#000000"/>
+ <path d="m3 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-18z" style="fill:#ffffff;opacity:.2"/>
+ <path d="m3 22.5c-0.554 0-1-0.446-1-1v-0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v0.5c0 0.554-0.446 1-1 1h-18z" style="opacity:.2"/>
+ <path d="m5.0101 6 3.5 4 3.5-4" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#3f3f3f"/>
+ <path d="m19.0101 10.499355-3.5-4.0101-3.5 4.0101" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#000000"/>
+ <path d="m19.0101 10-3.5-4.0101-3.5 4.0101" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#3f3f3f"/>
+ <path d="m19.0101 18.489255-3.5101-3.9899-3.4899 3.9899" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#000000"/>
+ <path d="M 19.0101,17.9899 15.5,14 12.0101,17.9899" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#3f3f3f"/>
+ <path d="m5 13.499355v5h4.5" style="fill:none;opacity:.2;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#000000"/>
+ <path d="m5 13v5h4.5" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2;stroke:#3f3f3f"/>
+</svg>

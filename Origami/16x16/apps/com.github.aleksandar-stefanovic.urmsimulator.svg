@@ -1,0 +1,6 @@
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-16" y="-16" width="16" height="16" rx=".8" ry=".8" style="fill:#bc5ae7"/>
+ <path d="m4.7500008 6.25-1.6e-6 3.2994579c-4e-7 0.9041161-0.6793312 1.2148251-1.2499992 1.2000221-0.5348012 0.0021-1.249977-0.284528-1.2499766-1.2000221l1.6e-6 -3.2994579" style="fill:none;stroke-linecap:round;stroke-linejoin:bevel;stroke-width:.5;stroke:#ffffff"/>
+ <path d="m8.75 10.741402-1.75-2.0744024m-0.7429484-0.0170416s2.4929484 0.2711396 2.4929484-1.1999248c0-1.4710656-2.4929484-1.1999532-2.4929484-1.1999532m5.88e-5 4.491381v-4.4913218" style="fill:none;stroke-linecap:round;stroke-width:.5;stroke:#ffffff"/>
+ <path d="m13.75 10.741461v-4.491461m-3.495732 0 1.799887 2.5l1.695845-2.5m-3.495732 4.491461v-4.491461" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5;stroke:#ffffff"/>
+</svg>
