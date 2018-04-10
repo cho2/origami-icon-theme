@@ -36,8 +36,8 @@ sudo -E hardcode-tray --conversion-tool RSVGConvert --size 22 --theme Origami
 **Size recommendations:**
 - Unity 22px
 - KDE 22px
-- GNOME 16px ([see](https://github.com/OrigamiDevelopmentTeam/origami-icon-theme#manual-fixes) for more info)
-- XFCE 22px ([see](https://github.com/OrigamiDevelopmentTeam/origami-icon-theme#manual-fixes) for more info)
+- GNOME 16px ([see](https://github.com/LelCP/origami-icon-theme#manual-fixes) for more info)
+- XFCE 22px ([see](https://github.com/LelCP/origami-icon-theme#manual-fixes) for more info)
 - Pantheon 24px
 - Cinnamon 16px
 
@@ -67,7 +67,7 @@ Support for monochrome icons for KDE colorscheme is now available:
 ## Manual fixes
 
 <details>
-![Cinnamon Arc-Dark theme fix](http://i.imgur.com/XXejgtD.png)
+[Cinnamon Arc-Dark theme fix](http://i.imgur.com/XXejgtD.png)
 
 To deal with blurred panel icons, increase the panel size up to 30px in `Systems Settings` → `Panel` (see [screenshot](https://i.imgur.com/oToRBYv.png)).
 </details>
