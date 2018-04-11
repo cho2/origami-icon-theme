@@ -67,7 +67,7 @@ Support for monochrome icons for KDE colorscheme is now available:
 ## Manual fixes
 
 <details>
-[Cinnamon Arc-Dark theme fix](http://i.imgur.com/XXejgtD.png)
+![Cinnamon Arc-Dark theme fix](http://i.imgur.com/XXejgtD.png)
 
 To deal with blurred panel icons, increase the panel size up to 30px in `Systems Settings` → `Panel` (see [screenshot](https://i.imgur.com/oToRBYv.png)).
 </details>
